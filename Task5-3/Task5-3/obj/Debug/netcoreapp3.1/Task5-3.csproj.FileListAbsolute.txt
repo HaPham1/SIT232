@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\bin\Debug\netcoreapp3.1\Task5-3.exe
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\bin\Debug\netcoreapp3.1\Task5-3.deps.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\bin\Debug\netcoreapp3.1\Task5-3.runtimeconfig.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\bin\Debug\netcoreapp3.1\Task5-3.runtimeconfig.dev.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\bin\Debug\netcoreapp3.1\Task5-3.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\bin\Debug\netcoreapp3.1\Task5-3.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\obj\Debug\netcoreapp3.1\Task5-3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\obj\Debug\netcoreapp3.1\Task5-3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\obj\Debug\netcoreapp3.1\Task5-3.AssemblyInfo.cs
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\obj\Debug\netcoreapp3.1\Task5-3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\obj\Debug\netcoreapp3.1\Task5-3.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\obj\Debug\netcoreapp3.1\Task5-3.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\Task5-3\Task5-3\obj\Debug\netcoreapp3.1\Task5-3.genruntimeconfig.cache

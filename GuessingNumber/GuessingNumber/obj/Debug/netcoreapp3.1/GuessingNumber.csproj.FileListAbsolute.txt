@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\obj\Debug\netcoreapp3.1\GuessingNumber.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\obj\Debug\netcoreapp3.1\GuessingNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\obj\Debug\netcoreapp3.1\GuessingNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\obj\Debug\netcoreapp3.1\GuessingNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\bin\Debug\netcoreapp3.1\GuessingNumber.exe
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\bin\Debug\netcoreapp3.1\GuessingNumber.deps.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\bin\Debug\netcoreapp3.1\GuessingNumber.runtimeconfig.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\bin\Debug\netcoreapp3.1\GuessingNumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\bin\Debug\netcoreapp3.1\GuessingNumber.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\bin\Debug\netcoreapp3.1\GuessingNumber.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\obj\Debug\netcoreapp3.1\GuessingNumber.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\obj\Debug\netcoreapp3.1\GuessingNumber.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\GuessingNumber\GuessingNumber\obj\Debug\netcoreapp3.1\GuessingNumber.genruntimeconfig.cache

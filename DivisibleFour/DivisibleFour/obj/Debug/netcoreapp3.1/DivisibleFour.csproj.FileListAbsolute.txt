@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\bin\Debug\netcoreapp3.1\DivisibleFour.exe
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\bin\Debug\netcoreapp3.1\DivisibleFour.deps.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\bin\Debug\netcoreapp3.1\DivisibleFour.runtimeconfig.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\bin\Debug\netcoreapp3.1\DivisibleFour.runtimeconfig.dev.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\bin\Debug\netcoreapp3.1\DivisibleFour.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\bin\Debug\netcoreapp3.1\DivisibleFour.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\obj\Debug\netcoreapp3.1\DivisibleFour.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\obj\Debug\netcoreapp3.1\DivisibleFour.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\obj\Debug\netcoreapp3.1\DivisibleFour.AssemblyInfo.cs
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\obj\Debug\netcoreapp3.1\DivisibleFour.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\obj\Debug\netcoreapp3.1\DivisibleFour.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\obj\Debug\netcoreapp3.1\DivisibleFour.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\DivisibleFour\DivisibleFour\obj\Debug\netcoreapp3.1\DivisibleFour.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileProgram", "MobileProgram\MobileProgram.csproj", "{AFA41DE1-8B51-4D57-9F6F-206B4493FB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA41DE1-8B51-4D57-9F6F-206B4493FB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA41DE1-8B51-4D57-9F6F-206B4493FB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA41DE1-8B51-4D57-9F6F-206B4493FB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA41DE1-8B51-4D57-9F6F-206B4493FB10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E0C681-C60C-4BCF-ACBE-532F8DC0C3CC}
+	EndGlobalSection
+EndGlobal

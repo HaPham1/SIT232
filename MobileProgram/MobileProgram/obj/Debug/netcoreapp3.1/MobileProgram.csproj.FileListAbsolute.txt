@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\bin\Debug\netcoreapp3.1\MobileProgram.exe
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\bin\Debug\netcoreapp3.1\MobileProgram.deps.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\bin\Debug\netcoreapp3.1\MobileProgram.runtimeconfig.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\bin\Debug\netcoreapp3.1\MobileProgram.runtimeconfig.dev.json
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\bin\Debug\netcoreapp3.1\MobileProgram.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\bin\Debug\netcoreapp3.1\MobileProgram.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\obj\Debug\netcoreapp3.1\MobileProgram.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\obj\Debug\netcoreapp3.1\MobileProgram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\obj\Debug\netcoreapp3.1\MobileProgram.AssemblyInfo.cs
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\obj\Debug\netcoreapp3.1\MobileProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\obj\Debug\netcoreapp3.1\MobileProgram.dll
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\obj\Debug\netcoreapp3.1\MobileProgram.pdb
+C:\Users\User\Desktop\Deakin Uni\SIT232\MobileProgram\MobileProgram\obj\Debug\netcoreapp3.1\MobileProgram.genruntimeconfig.cache
